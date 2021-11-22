@@ -1,3 +1,7 @@
+# React Interview Preparation using `https://fortnite-api.theapinetwork.com` API
+
+A repository where I practiced some React hooks, such as useState() and UseEffect(), which is doing the REST API call from `https://fortnite-api.theapinetwork.com`.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
